@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="parkingname">ParkingName</string>
+    <string name="Address">Address</string>
+    <string name="carcapacity">Carcapacity</string>
+    <string name="rent">Rent</string>
+    <string name="mobilenumber">MobileNumber</string>
+    <string name="openingtime">OpeningTime</string>
+    <string name="closingtime">ClosingTime</string>
+    <string name="register">Register</string>
+</resources>
